@@ -1,5 +1,5 @@
 # Dependencies
-/node_modules
+project1/node_modules
 
 # Production build folder
 /build
