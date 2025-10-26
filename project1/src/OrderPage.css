@@ -1,0 +1,28 @@
+.order-page {
+    text-align: center;
+  }
+  
+  .order-summary {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .order-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .order-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .total-price {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
